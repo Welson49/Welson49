@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a front end programmer, I'm currently learning and creating projects with:
+I'm a Front-End programmer, I'm currently learning and creating projects with:
 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-img" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-img" />
@@ -19,6 +19,13 @@ I'm a front end programmer, I'm currently learning and creating projects with:
 
 Connect with me:
 <br>
-<a href="https://w.app/4JVOuv"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="zap-img" /> </a> <a href="https://acesse.one/zHV4b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="img-insta" /> </a>
+<a href="https://w.app/4JVOuv"><img width=50px src="https://i.imgur.com/ryESuZ5.png" alt="zap-img" /> </a>                   <a href="https://acesse.one/zHV4b"><img width=50px src="https://i.imgur.com/OWdUupI.png" alt="img-insta" /> </a>
+
+
+
+[![Welson Stats](https://github-readme-stats.vercel.app/api?username=Welson49)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Welson Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Welson49)](https://github.com/anuraghazra/github-readme-stats)
 
 
