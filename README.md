@@ -19,7 +19,8 @@ I'm a Front-End programmer, I'm currently learning and creating projects with:
 
 Connect with me:
 <br>
-<a href="https://w.app/4JVOuv"><img width=50px src="https://i.imgur.com/ryESuZ5.png" alt="zap-img" /> </a>                   <a href="https://acesse.one/zHV4b"><img width=50px src="https://i.imgur.com/OWdUupI.png" alt="img-insta" /> </a>
+<a href="https://w.app/4JVOuv"><img width=50px src="https://i.imgur.com/ryESuZ5.png" alt="zap-img" /> </a>                   
+<a href="https://acesse.one/zHV4b"><img width=50px src="https://i.imgur.com/ZHymJXa.png" alt="img-insta" /> </a>
 
 
 
