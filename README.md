@@ -1,16 +1,17 @@
 ### Hi there 👋
+I'm a front end programmer, I'm currently learning and creating projects with HTML and CSs and starting to learn JavaScript and React.
 
-<!--
-**Welson49/Welson49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏽‍🏫 Natural Sciences Teacher with Qualification in Chemistry
 
-Here are some ideas to get you started:
+💻 IT Skills | Looking for opportunities as a Virtual Assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Passionate about Science and Technology | Exploring new areas with passion
+
+🌐 Computer knowledge and productivity tools | Interested in growing in the virtual assistant field
+
+🎓 Solid academic background in Natural Sciences | Ready to apply skills to new challenges
+
+🤝 Looking for opportunities to learn and contribute in a dynamic and innovative environment
+
+Contact: +55 (99) 98515-4957
+Email: welsontheone@gmail.com
